@@ -1,0 +1,20 @@
+.email-container 
+{ 
+  min-height: 100vh;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  background-color: aliceblue;
+}
+.textarea
+{
+  border-radius: 2px;
+  outline-style: groove;
+  outline-width: 2px;
+  outline-color: rgb(84, 84, 84);
+}
+.btn-container
+{
+  min-height: 30vh;
+  background-color: aqua;
+}
