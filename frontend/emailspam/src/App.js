@@ -14,7 +14,7 @@ function App() {
 
   const checkspam=async()=>{
 
-  const senddata =await fetch('http://127.0.0.1:5000/',
+  const senddata =await fetch('https://email-spam.vercel.app/',
     {
       method:"POST",
       headers: {
